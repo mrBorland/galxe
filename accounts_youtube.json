@@ -1,0 +1,12 @@
+[
+  {
+    "name": "user1",
+    "cookies": "SID=xyz1; HSID=abc1;",
+    "proxy": "137.59.5.28:6511:gvtqnzjs:ngetdl95l2s8"
+  },
+  {
+    "name": "user2",
+    "cookies": "SID=xyz2; HSID=abc2;",
+    "proxy": "154.92.114.119:5814:gvtqnzjs:ngetdl95l2s8"
+  }
+]
